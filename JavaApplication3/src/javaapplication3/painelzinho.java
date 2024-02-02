@@ -49,11 +49,11 @@ public class painelzinho extends javax.swing.JPanel {
 
         jLabel1.setFont(new java.awt.Font("Arial Black", 0, 12)); // NOI18N
         jLabel1.setText("NOME:");
-        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 180, -1, -1));
+        jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 180, -1, -1));
 
         jLabel2.setFont(new java.awt.Font("Arial Black", 0, 12)); // NOI18N
         jLabel2.setText("SENHA:");
-        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 220, -1, -1));
+        jPanel1.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 220, -1, -1));
 
         xianyun.setIcon(new javax.swing.ImageIcon("D:\\Users\\962900\\OneDrive\\Desktop\\TTU\\xianyun.PNG")); // NOI18N
         jPanel1.add(xianyun, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, 422));
